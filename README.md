@@ -50,6 +50,4 @@ Técnico en Sistemas Microinformáticos y Redes (SMR) y desarrollador web enfoca
 
 ## 📫 Conecta conmigo
 
-- **LinkedIn:** [tu-perfil](https://www.linkedin.com/in/tu-perfil)
-- **Web:** [tu-web-o-portfolio](https://tu-portfolio.com)
-- **Correo:** [christian@ejemplo.com](mailto:christian@ejemplo.com)
+- **Correo:** [bonaquegar@gmail.com](mailto:bonaquegar@gmail.com)
