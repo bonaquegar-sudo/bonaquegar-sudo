@@ -37,6 +37,8 @@ Técnico en Sistemas Microinformáticos y Redes (SMR) y desarrollador web enfoca
 - **Analizador de Paquetes de Red con IA**  
   Herramienta en Python con interfaz gráfica desarrollada sobre Scapy y Tkinter para captura de tráfico y síntesis inteligente de patrones de red.
 
+- **Coven**
+  Herramienta pensada para analizar proyectos con un equipo de agentes usando un chat tipo slack donde hablan entre ellos.
 ---
 
 ## 📊 Estadísticas de GitHub
