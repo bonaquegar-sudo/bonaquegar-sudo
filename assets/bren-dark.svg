@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 300" width="260" height="300" role="img" aria-label="Bren, the Breensivo mascot, waving and winking"><style>
+*{transform-box:view-box}
+.cuerpo{transform-origin:130px 266px;animation:respira 1.5s ease-in-out infinite}
+@keyframes respira{0%,100%{transform:scale(1,1)}50%{transform:scale(.985,1.025)}}
+.tallo{transform-origin:81px 116px;animation:saluda .6s ease-in-out infinite alternate}
+@keyframes saluda{from{transform:rotate(-45deg)}to{transform:rotate(-5deg)}}
+.ojo-i{transform-origin:106px 161px;animation:parpadeo 4s infinite}
+@keyframes parpadeo{0%,94%,100%{transform:scaleY(1)}97%{transform:scaleY(.1)}}
+.abierto{animation:abierto 4s infinite}.guino{animation:guino 4s infinite}
+@keyframes abierto{0%,40%,62%,100%{opacity:1}44%,58%{opacity:0}}
+@keyframes guino{0%,40%,62%,100%{opacity:0}44%,58%{opacity:1}}
+.sombra{transform-origin:130px 282px;animation:sombra 1.5s ease-in-out infinite}
+@keyframes sombra{0%,100%{transform:scaleX(1)}50%{transform:scaleX(.94)}}
+</style>
+<ellipse class="sombra" cx="130" cy="282" rx="62" ry="6" fill="#A4A8AF" opacity=".35"/>
+<g class="cuerpo">
+<rect x="92" y="216" width="26" height="50" rx="13" fill="#5CBFA9"/><rect x="142" y="216" width="26" height="50" rx="13" fill="#5CBFA9"/>
+<g class="tallo"><rect x="60" y="38" width="42" height="99" rx="21" fill="#5CBFA9"/></g>
+<path d="M60 131 A21 21 0 0 1 81 110 L160 110 A40 40 0 0 1 200 150 L200 200 A40 40 0 0 1 160 240 L100 240 A40 40 0 0 1 60 200 Z" fill="#5CBFA9"/>
+<ellipse class="ojo-i" cx="106" cy="161" rx="6.5" ry="8.5" fill="#111213"/>
+<ellipse class="abierto" cx="154" cy="161" rx="6.5" ry="8.5" fill="#111213"/>
+<path class="guino" d="M141 167 Q154 151 167 167" stroke="#111213" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M118 180 Q130 190 142 180" stroke="#111213" stroke-width="6" fill="none" stroke-linecap="round"/>
+</g></svg>

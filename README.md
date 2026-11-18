@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="assets/clawd.svg" width="180" alt="Clawd waving" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bren-dark.svg" />
+  <img src="assets/bren-light.svg" width="150" alt="Bren, the Breensivo mascot, waving" />
+</picture>
 
-<a href="https://github.com/bonaquegar-sudo"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I'm+Christian;Hola%2C+soy+Christian;I+build+software+with+AI+agents;Construyo+software+con+agentes+de+IA" alt="Hi, I'm Christian · Hola, soy Christian" /></a>
+<sub><i>This is Bren, the mascot of <a href="https://breensivo.app">Breensivo</a>. Say hi. · Este es Bren, la mascota de <a href="https://breensivo.app">Breensivo</a>. Salúdale.</i></sub>
+
+<a href="https://github.com/bonaquegar-sudo"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=5CBFA9&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I'm+Christian;Hola%2C+soy+Christian;I+build+software+with+AI+agents;Construyo+software+con+agentes+de+IA" alt="Hi, I'm Christian · Hola, soy Christian" /></a>
 
 **Christian Bonaque García** · SMR student · Estudiante de SMR · Málaga
 
@@ -51,17 +56,17 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bonaquegar-sudo&show_icons=true&hide_border=true&theme=github_dark&title_color=D97757&icon_color=D97757&ring_color=D97757&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bonaquegar-sudo&show_icons=true&hide_border=true&title_color=D97757&icon_color=D97757&ring_color=D97757&include_all_commits=true" alt="GitHub stats and rank" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bonaquegar-sudo&show_icons=true&hide_border=true&theme=github_dark&title_color=5CBFA9&icon_color=5CBFA9&ring_color=5CBFA9&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bonaquegar-sudo&show_icons=true&hide_border=true&title_color=5CBFA9&icon_color=5CBFA9&ring_color=5CBFA9&include_all_commits=true" alt="GitHub stats and rank" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bonaquegar-sudo&hide_border=true&theme=github-dark-blue&background=0D1117&ring=D97757&fire=D97757&currStreakLabel=D97757" />
-  <img height="170" src="https://streak-stats.demolab.com?user=bonaquegar-sudo&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bonaquegar-sudo&hide_border=true&theme=github-dark-blue&background=111213&ring=5CBFA9&fire=5CBFA9&currStreakLabel=5CBFA9" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bonaquegar-sudo&hide_border=true&ring=0E5A4F&fire=0E5A4F&currStreakLabel=0E5A4F" alt="GitHub streak" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bonaquegar-sudo&hide_border=true&bg_color=0D1117&color=8b949e&line=D97757&point=e6edf3&area=true&area_color=D97757" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bonaquegar-sudo&hide_border=true&bg_color=ffffff&color=57606a&line=D97757&point=1f2328&area=true&area_color=D97757" alt="Contribution activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bonaquegar-sudo&hide_border=true&bg_color=111213&color=8b949e&line=5CBFA9&point=e6edf3&area=true&area_color=5CBFA9" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bonaquegar-sudo&hide_border=true&bg_color=ffffff&color=57606a&line=0E5A4F&point=1f2328&area=true&area_color=5CBFA9" alt="Contribution activity" />
 </picture>
 </div>
 
