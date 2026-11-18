@@ -1,87 +1,74 @@
 <div align="center">
 
-<img src="assets/clawd.svg" width="112" alt="Clawd, the Claude mascot" />
+<img src="assets/clawd.svg" width="180" alt="Clawd waving" />
 
-# Hi, I'm Christian · Hola, soy Christian
+<a href="https://github.com/bonaquegar-sudo"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I'm+Christian;Hola%2C+soy+Christian;I+build+software+with+AI+agents;Construyo+software+con+agentes+de+IA" alt="Hi, I'm Christian · Hola, soy Christian" /></a>
 
-**Christian Bonaque García**
-
-2nd-year Microcomputer Systems and Networks student (SMR) · I build software with AI agents<br/>
-Estudiante de 2.º de Sistemas Microinformáticos y Redes (SMR) · Construyo software con agentes de IA
-
-Málaga, España
+**Christian Bonaque García** · SMR student · Estudiante de SMR · Málaga
 
 </div>
 
----
+<br/>
 
-## About · Sobre mí
+> **EN** &nbsp; 2nd-year Microcomputer Systems and Networks student at IES Pablo Picasso. Most of my time goes into building with AI: agent teams that plan, code, test, review and audit, and apps with an assistant at their core.
+>
+> **ES** &nbsp; Estudiante de 2.º de Sistemas Microinformáticos y Redes en el IES Pablo Picasso. Casi todo mi tiempo lo dedico a construir con IA: equipos de agentes que planifican, programan, prueban, revisan y auditan, y apps con un asistente en el centro.
 
-**EN** — I study systems and networks at IES Pablo Picasso and spend most of my time building with AI: teams of agents that plan, write code, review it and audit it for security, apps with an assistant at their core, and pipelines that turn a script into a finished video. Before that, web development, systems administration and automation at MalagaMicro.
+<br/>
 
-**ES** — Estudio sistemas y redes en el IES Pablo Picasso y dedico casi todo mi tiempo a construir con IA: equipos de agentes que planifican, programan, revisan y auditan la seguridad, aplicaciones con un asistente en el centro y procesos que convierten un guion en un vídeo terminado. Antes, desarrollo web, administración de sistemas y automatización en MalagaMicro.
+<div align="center">
+  <img src="assets/agents.svg" width="100%" alt="How I build: plan, code, test, review, security" />
+</div>
 
----
+<br/>
 
-## AI · Inteligencia artificial
+## AI · IA
 
-| | EN | ES |
-|---|---|---|
-| **Agentic architecture** | Multi-agent teams with defined roles (tech lead, developer, tester, reviewer, security) coordinated with Claude Code | Equipos de varios agentes con roles definidos (jefe técnico, desarrollo, pruebas, revisión, seguridad) coordinados con Claude Code |
-| **Tools for agents** | MCP servers, custom skills and slash commands | Servidores MCP, skills propias y comandos |
-| **LLMs in products** | RAG over a knowledge base, model fallback with OpenRouter, an in-app assistant that acts on real data | RAG sobre una base de conocimiento, modelo de respaldo con OpenRouter y un asistente dentro de la app que trabaja con datos reales |
-| **Voice and video** | ElevenLabs voices, Whisper word-level timing and automated video with Remotion | Voces con ElevenLabs, tiempos palabra a palabra con Whisper y vídeo automático con Remotion |
+<img src="assets/ai-stack.svg" height="48" alt="Claude, Anthropic, MCP, Gemini, OpenRouter, ElevenLabs" />
 
-<p>
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/181818/ffffff" height="40" alt="Model Context Protocol" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openrouter/181818/ffffff" height="40" alt="OpenRouter" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/elevenlabs/181818/ffffff" height="40" alt="ElevenLabs" />
-</p>
-
----
+- **Agentic architecture · Arquitectura agéntica:** multi-agent teams with Claude Code, MCP servers, skills and commands
+- **LLMs in products · LLMs en productos:** RAG, model fallback with OpenRouter, an in-app agent that works on real data
+- **Voice and video · Voz y vídeo:** ElevenLabs, Whisper timing, automated video with Remotion
 
 ## Stack
 
-**Programming · Programación**
+<img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nodejs,postgres,supabase,tailwind,astro,fastapi,flask,vercel&theme=dark" alt="Python, TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Tailwind CSS, Astro, FastAPI, Flask, Vercel" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,react,nextjs,nodejs,postgres,supabase,tailwind,astro,fastapi,flask,vercel&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nodejs,postgres,supabase,tailwind,astro,fastapi,flask,vercel&theme=light" alt="Python, TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Tailwind CSS, Astro, FastAPI, Flask, Vercel" />
-</picture>
+<img src="https://skillicons.dev/icons?i=linux,debian,windows,bash,docker,git,github&theme=dark" alt="Linux, Debian, Windows, Bash, Docker, Git, GitHub" />
 
-**Systems and networks · Sistemas y redes**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,windows,bash,docker,git,github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=linux,debian,windows,bash,docker,git,github&theme=light" alt="Linux, Debian, Windows, Bash, Docker, Git, GitHub" />
-</picture>
-
-TCP/IP and OSI · routing and switching · Wireshark · DNS · DHCP · Windows Server · Proxmox VE · VirtualBox · LXC
-
----
+<sub>Networks · Redes: TCP/IP, OSI, routing and switching, Wireshark, DNS, DHCP, Windows Server, Proxmox VE, VirtualBox, LXC</sub>
 
 ## Projects · Proyectos
 
-**[Breensivo](https://breensivo.app)**
-- **EN:** Management app for freelancers and small businesses: invoices, expenses, calendar and tasks, with an AI agent (Bren) at its core. Built and run with a team of AI agents.
-- **ES:** App de gestión para autónomos y pymes, con facturas, gastos, agenda y tareas, y un agente de IA (Bren) en el centro. Hecha y mantenida con un equipo de agentes de IA.
+| | |
+|---|---|
+| **[Breensivo](https://breensivo.app)** | Management app for freelancers with an AI agent at its core, built with a team of agents.<br/><sub>App de gestión para autónomos con un agente de IA en el centro, hecha con un equipo de agentes.</sub> |
+| **[Coven](https://github.com/bonaquegar-sudo/coven)** | Security analysis by agents that talk to each other in a Slack-style chat.<br/><sub>Análisis de seguridad con agentes que hablan entre ellos en un chat tipo Slack.</sub> |
+| **[Packet analyzer](https://github.com/bonaquegar-sudo/Analizador-de-paquetes-en-Python)** | Network capture with Scapy and Tkinter, with AI summaries of traffic.<br/><sub>Captura de red con Scapy y Tkinter, con resúmenes del tráfico hechos por IA.</sub> |
+| **[Zaptap](https://zaptap.es)** | NFC cards and a landing page to collect Google reviews.<br/><sub>Tarjetas NFC y una landing para conseguir reseñas en Google.</sub> |
 
-**[Coven](https://github.com/bonaquegar-sudo/coven)**
-- **EN:** Security analysis of projects by a team of agents that talk to each other in a Slack-style chat.
-- **ES:** Análisis de seguridad de proyectos con un equipo de agentes que hablan entre ellos en un chat tipo Slack.
+## GitHub
 
-**[Analizador de paquetes](https://github.com/bonaquegar-sudo/Analizador-de-paquetes-en-Python)**
-- **EN:** Network traffic capture with Scapy and Tkinter, with AI summaries of traffic patterns.
-- **ES:** Captura de tráfico de red con Scapy y Tkinter, con resúmenes de patrones hechos por IA.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bonaquegar-sudo&show_icons=true&hide_border=true&theme=github_dark&title_color=D97757&icon_color=D97757&ring_color=D97757&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bonaquegar-sudo&show_icons=true&hide_border=true&title_color=D97757&icon_color=D97757&ring_color=D97757&include_all_commits=true" alt="GitHub stats and rank" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bonaquegar-sudo&hide_border=true&theme=github-dark-blue&background=0D1117&ring=D97757&fire=D97757&currStreakLabel=D97757" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bonaquegar-sudo&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="GitHub streak" />
+</picture>
 
-**[Zaptap](https://zaptap.es)**
-- **EN:** NFC cards and a landing page that help local businesses collect Google reviews.
-- **ES:** Tarjetas NFC y una landing que ayudan a negocios locales a conseguir reseñas en Google.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bonaquegar-sudo&hide_border=true&bg_color=0D1117&color=8b949e&line=D97757&point=e6edf3&area=true&area_color=D97757" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bonaquegar-sudo&hide_border=true&bg_color=ffffff&color=57606a&line=D97757&point=1f2328&area=true&area_color=D97757" alt="Contribution activity" />
+</picture>
+</div>
 
----
+<br/>
 
-## Contact · Contacto
+<div align="center">
 
 [bonaquegar@gmail.com](mailto:bonaquegar@gmail.com)
+
+</div>

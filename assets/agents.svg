@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200" role="img" aria-label="Agent team: plan, code, test, review, security">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .title { fill: #e6edf3; font-size: 16px; font-weight: 600; }
+    .sub { fill: #8b949e; font-size: 12px; }
+    .name { fill: #e6edf3; font-size: 14px; font-weight: 600; }
+    .es { fill: #8b949e; font-size: 11px; }
+    .node { fill: #21262d; stroke: #30363d; stroke-width: 1.5; }
+    .ring { fill: none; stroke: #D97757; stroke-width: 2; opacity: 0; animation: ping 5s infinite; transform-box: fill-box; transform-origin: center; }
+    .n2 { animation-delay: 1s } .n3 { animation-delay: 2s } .n4 { animation-delay: 3s } .n5 { animation-delay: 4s }
+    @keyframes ping { 0% { opacity: 1; transform: scale(1) } 18% { opacity: 0; transform: scale(1.35) } 100% { opacity: 0 } }
+    .flow { stroke: #D97757; stroke-width: 2; stroke-dasharray: 6 8; animation: dash 1s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -14 } }
+  </style>
+  <rect x="1" y="1" width="838" height="198" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="38" class="title">How I build · Cómo construyo</text>
+  <text x="28" y="58" class="sub">A team of AI agents that hand the work to each other · Un equipo de agentes de IA que se pasan el trabajo</text>
+  <line x1="108" y1="128" x2="732" y2="128" class="flow"/>
+  <g>
+    <circle cx="108" cy="128" r="26" class="node"/><circle cx="108" cy="128" r="26" class="ring"/>
+    <path d="M98 120h20M98 128h20M98 136h12" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+    <text x="108" y="176" text-anchor="middle" class="name">Plan</text><text x="108" y="191" text-anchor="middle" class="es">planificar</text>
+  </g>
+  <g>
+    <circle cx="264" cy="128" r="26" class="node"/><circle cx="264" cy="128" r="26" class="ring n2"/>
+    <path d="M256 120l-9 8 9 8M272 120l9 8-9 8" fill="none" stroke="#D97757" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="264" y="176" text-anchor="middle" class="name">Code</text><text x="264" y="191" text-anchor="middle" class="es">programar</text>
+  </g>
+  <g>
+    <circle cx="420" cy="128" r="26" class="node"/><circle cx="420" cy="128" r="26" class="ring n3"/>
+    <path d="M409 128l7 7 14-15" fill="none" stroke="#D97757" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="420" y="176" text-anchor="middle" class="name">Test</text><text x="420" y="191" text-anchor="middle" class="es">probar</text>
+  </g>
+  <g>
+    <circle cx="576" cy="128" r="26" class="node"/><circle cx="576" cy="128" r="26" class="ring n4"/>
+    <circle cx="572" cy="124" r="8" fill="none" stroke="#D97757" stroke-width="3"/><path d="M578 130l8 8" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+    <text x="576" y="176" text-anchor="middle" class="name">Review</text><text x="576" y="191" text-anchor="middle" class="es">revisar</text>
+  </g>
+  <g>
+    <circle cx="732" cy="128" r="26" class="node"/><circle cx="732" cy="128" r="26" class="ring n5"/>
+    <path d="M732 114l12 5v8c0 8-5 13-12 15-7-2-12-7-12-15v-8z" fill="none" stroke="#D97757" stroke-width="3" stroke-linejoin="round"/>
+    <text x="732" y="176" text-anchor="middle" class="name">Security</text><text x="732" y="191" text-anchor="middle" class="es">seguridad</text>
+  </g>
+  <circle r="6" fill="#D97757">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M108 128H732"/>
+  </circle>
+</svg>
